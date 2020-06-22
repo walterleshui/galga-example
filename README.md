@@ -3,6 +3,7 @@
 Fly your space plane through the oncoming bogey spacecraft. Can you survive the continuous attack? You start with three lives but you gain more by firing on the enemy ships. You lose a life with every collision, so try to blast away the enemy before they hit you.
 
 Space plane and attacking spacecraft
+
 ![preview](https://makecode.trafficmanager.cn/blob/f38c4a906e3d9170c6cb334f63e80a275c123718/static/tutorials/galga.gif)
 
 ## Bonus Features
